@@ -1,0 +1,14 @@
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\bin\Debug\net10.0\UmlLab.exe
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\bin\Debug\net10.0\UmlLab.deps.json
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\bin\Debug\net10.0\UmlLab.runtimeconfig.json
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\bin\Debug\net10.0\UmlLab.dll
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\bin\Debug\net10.0\UmlLab.pdb
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\UmlLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\UmlLab.AssemblyInfoInputs.cache
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\UmlLab.AssemblyInfo.cs
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\UmlLab.csproj.CoreCompileInputs.cache
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\UmlLab.dll
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\refint\UmlLab.dll
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\UmlLab.pdb
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\UmlLab.genruntimeconfig.cache
+C:\Users\Hii\Documents\P8-DellaFitriani\UmlLab\obj\Debug\net10.0\ref\UmlLab.dll
